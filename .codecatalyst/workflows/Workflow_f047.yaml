@@ -38,7 +38,7 @@ Actions:
       Container:
         Registry: CODECATALYST
         Image: CodeCatalystLinux_x86_64:2024_03
-Build_e3:
+  Build_e3:
     # Identifies the action. Do not modify this value.
     Identifier: aws/build@v1.0.0
 
