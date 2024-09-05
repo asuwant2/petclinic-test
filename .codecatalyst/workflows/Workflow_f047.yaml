@@ -40,7 +40,7 @@ Actions:
         Image: CodeCatalystLinux_x86_64:2024_03
   Build_e4:
     # Identifies the action. Do not modify this value.
-    Identifier: aws/build@v1.0.0
+    Identifier: aws/test@v1.0.0
 
     # Specifies the source and/or artifacts to pass to the action as input.
     Inputs:
